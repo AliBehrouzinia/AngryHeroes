@@ -17,7 +17,7 @@
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/angry-heroes.git
+   git clone https://github.com/AliBehrouzinia/AngryHeroes.git
 
 
 ![menu](https://user-images.githubusercontent.com/47349044/150691192-c81b30b6-07c6-4125-a444-207400cf18cc.gif)
